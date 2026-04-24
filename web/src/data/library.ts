@@ -365,8 +365,9 @@ export const librarySections: LibrarySection[] = [
       },
       {
         title: 'Introducción a la programación con Python 3',
-        href: '/books/python-introduccion-programacion-3.pdf',
-        author: 'Andrés Marzal Varó, Isabel Gracia Luengo, Pedro García Sevilla',
+        href: 'https://repositori.uji.es/items/992c7ee2-fef4-4061-9958-aefe932fd611',
+        pdfHref: '/books/python-introduccion-programacion-3.pdf',
+        author: 'Andrés Marzal Varó, Isabel Gracia Luengo, Pedro García-Sevilla',
         formats: ['PDF'],
       },
       {
@@ -629,8 +630,9 @@ export const librarySections: LibrarySection[] = [
     books: [
       {
         title: 'Introducción a la Programación con C',
-        href: '/books/c-introduccion-programacion.pdf',
-        author: 'Andrés Marzal e Isabel Gracia',
+        href: 'https://repositori.uji.es/items/3bd580d8-8def-470b-a053-164dc98f3d9e',
+        pdfHref: '/books/c-introduccion-programacion.pdf',
+        author: 'Andrés Marzal Varó, Isabel Gracia Luengo',
         formats: ['PDF'],
       },
     ],
