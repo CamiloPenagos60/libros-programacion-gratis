@@ -4,7 +4,7 @@ Biblioteca viva de libros y guías gratuitas de programación en español. El ca
 
 - Web: [librosgratis.dev](https://librosgratis.dev)
 - Repositorio fuente original: [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)
-- Total actual: 114 recursos en 32 secciones
+- Total actual: 115 recursos en 32 secciones
 
 ## Categorías
 
@@ -19,7 +19,7 @@ Biblioteca viva de libros y guías gratuitas de programación en español. El ca
 
 ## Índice
 
-- [Generales](#generales) · 2
+- [Generales](#generales) · 3
 - [Algoritmos y estructuras de datos](#algoritmos) · 8
 - [HTML y CSS](#html-css) · 4
 - [JavaScript](#javascript) · 13
@@ -59,6 +59,7 @@ Biblioteca viva de libros y guías gratuitas de programación en español. El ca
 Para abrir apetito, mejorar criterio y aprender a pensar mejor como programador.
 
 - [97 cosas que todo programador debe saber](https://97cosas.com/programador/) — Kevlin Henney
+- [100cosasdev](https://100cosas.dev/) — midudev
 - [Los apuntes de Majo](https://losapuntesdemajo.vercel.app/) — Majo Ledesma
 
 ## Algoritmos y estructuras de datos
