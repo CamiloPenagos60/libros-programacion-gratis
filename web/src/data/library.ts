@@ -79,7 +79,7 @@ export const librarySections: LibrarySection[] = [
       },
       {
         id: '100cosasdev',
-        title: '100cosasdev',
+        title: '100 cosas que todo programador debe saber',
         href: 'https://100cosas.dev/',
         pdfHref: 'https://100cosas.dev/100cosas-es.pdf',
         author: 'midudev',
@@ -381,6 +381,14 @@ export const librarySections: LibrarySection[] = [
         href: '/books/python-para-todos.pdf',
         author: 'Raúl González Duque',
         formats: ['PDF'],
+      },
+      {
+        id: 'think-python-en-espanol',
+        title: 'Think Python en español',
+        href: 'https://libropython.es/',
+        pdfHref: 'https://libropython.es/think-python-es.pdf',
+        author: 'Allen B. Downey, traducido por midudev',
+        formats: ['HTML', 'PDF'],
       },
       {
         id: 'aprenda-a-pensar-como-un-programador-con-python',
