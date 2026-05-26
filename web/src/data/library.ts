@@ -78,6 +78,14 @@ export const librarySections: LibrarySection[] = [
         formats: ['HTML', 'PDF'],
       },
       {
+        id: '100cosasdev',
+        title: '100cosasdev',
+        href: 'https://100cosas.dev/',
+        pdfHref: 'https://100cosas.dev/100cosas-es.pdf',
+        author: 'midudev',
+        formats: ['HTML', 'PDF'],
+      },
+      {
         id: 'los-apuntes-de-majo',
         title: 'Los apuntes de Majo',
         href: 'https://losapuntesdemajo.vercel.app/',
